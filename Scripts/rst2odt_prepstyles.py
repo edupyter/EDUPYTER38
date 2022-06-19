@@ -1,4 +1,4 @@
-#!E:\python-3.8\apps\python.exe
+#!E:\python-3.8.x\apps\python.exe
 
 # $Id: rst2odt_prepstyles.py 8346 2019-08-26 12:11:32Z milde $
 # Author: Dave Kuhlman <dkuhlman@rexx.com>

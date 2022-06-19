@@ -1,4 +1,4 @@
-#!E:\python-3.8\apps\python.exe
+#!E:\python-3.8.x\apps\python.exe
 
 # $Id: rst2s5.py 4564 2006-05-21 20:44:42Z wiemann $
 # Author: Chris Liechti <cliechti@gmx.net>

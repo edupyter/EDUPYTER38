@@ -1,4 +1,4 @@
-#!E:\python-3.8\apps\python.exe
+#!E:\python-3.8.x\apps\python.exe
 
 # $Id: rst2odt.py 5839 2009-01-07 19:09:28Z dkuhlman $
 # Author: Dave Kuhlman <dkuhlman@rexx.com>
